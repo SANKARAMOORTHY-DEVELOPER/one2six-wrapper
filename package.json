@@ -1,0 +1,22 @@
+{
+  "name": "one2sixwrapper",
+  "version": "1.0.0",
+  "description": "company vetted library for a distributed group of freelancers ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SANKARAMOORTHY-DEVELOPER/one2six-wrapper.git"
+  },
+  "keywords": [
+    "one2six"
+  ],
+  "author": "SANKARAMOORTHY-DEVELOPER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SANKARAMOORTHY-DEVELOPER/one2six-wrapper/issues"
+  },
+  "homepage": "https://github.com/SANKARAMOORTHY-DEVELOPER/one2six-wrapper#readme"
+}
